@@ -22,7 +22,7 @@ import java.util.TreeMap;
 
 public abstract class Elevator {
 
-	//int destinationY = 0; //Destination y coordinate
+	int destinationY = 0; //Destination y coordinate
 	
 	public boolean goingUp = false;
 	public double speed = 0.5;
