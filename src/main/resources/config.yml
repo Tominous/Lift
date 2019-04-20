@@ -6,11 +6,11 @@
 metrics: true
 maxLiftArea: 16
 maxHeight: 256
-debug: false
+debug: true
 autoPlace: false
-preventEntry: false
+preventEntry: true
 preventLeave: true
-checkFloor: false
+checkFloor: true
 liftMobs: true
 floorBlocks:
   - GLASS
